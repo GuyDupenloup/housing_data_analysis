@@ -36,7 +36,3 @@ To reproduce the analysis yourself:
 ### License
 This project is dedicated to the public domain under [CC0 1.0 Universal].  
 See `LICENSE.txt` for details.
-
-Feature engineering (sometimes creating new features, e.g., TotalBathrooms = FullBath + 0.5*HalfBath).
-
-Log-transform
