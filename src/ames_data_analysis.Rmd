@@ -182,8 +182,8 @@ Let's try to categorize these variables based on real estate agents' home search
     <td>Type of house</td>
     <td>MS.SubClass, Bldg.Type, House.Style</td>
   </tr><tr>
-  <td>House area</td>
-    <td>Area</td>
+    <td>Above grade (ground) living area</td>
+    <td>area</td>
   </tr><tr>
   <td>House age</td>
     <td>Age, Year.Built, Year.Remodel.Add</td>
@@ -260,7 +260,10 @@ Let's try to categorize these variables based on real estate agents' home search
 </table>
 
 <br>
-The available variables closely match our compilation of home search criteria and recommendations from real estate agents.
+
+The variable 'area' in the dataset is not in the codebook, and the variable 'Gr Liv Area' in the codebook is not in the dataset. We assume that they are the same, providing the above grade (ground) living area.
+
+We note that the available variables closely match our compilation of home search criteria and recommendations from real estate agents.
 
 <h4>Neighborhoods</h4>
 
