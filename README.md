@@ -12,8 +12,16 @@ This repository contains an analysis of the Ames Housing Dataset --- a dataset w
 - Evaluation on the test set, model tuning
 - Predictions on the validation set  
 
-The rendered HTML report is called `ames_data_analysis.html` and is located at the top level of the repository.  
-You can open it directly in a web browser to view the results.
+The rendered HTML report is called `ames_data_analysis.html` and is located at the top level of the repository.
+
+You can view it as follows:
+
+1. Click on `ames_data_analysis.html` to view the file
+
+2. Copy the contents of the file and paste them in a file with `.html` extension on your computer
+
+- Open your HTML file in a web browser
+
 
 ### Project Files
 
